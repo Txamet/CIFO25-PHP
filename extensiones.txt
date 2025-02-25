@@ -1,0 +1,9 @@
+PHP Intelephense - Ben Mewburn
+PHP Namespace Resolver - Mehedi Hassan
+PHP IntelliSense - Damjan Cvetko
+PHP Debug - Xdebug
+PHP DocBlocker - Neil Brayfield
+PHP Refactoring - marsl
+Live Server (Five Server) - Yannick
+PHP Refactor Tool - Son Tung PHAM
+deep-assoc-completion-vscode - klesun
