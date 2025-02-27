@@ -1,0 +1,1 @@
+<!-- Este es el formato que se daba antiguamente a los archivos de librería. En desuso. -->

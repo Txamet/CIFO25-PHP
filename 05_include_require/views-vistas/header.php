@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Includes - Requires en PHP</title>
+    <title><?= $title; ?></title>
   </head>
   <body>
     <h1><?= $encabezado_1; ?></h2>
