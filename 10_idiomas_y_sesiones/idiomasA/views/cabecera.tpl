@@ -1,7 +1,3 @@
-<?php
-function cabecera($lang) {
-  ?>
-
   <!DOCTYPE html>
   <html lang="es">
   <head>
@@ -35,6 +31,7 @@ function cabecera($lang) {
       </div>
     </main>
 
-  <?php  
-}
-?>
+   
+
+
+
