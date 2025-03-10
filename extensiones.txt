@@ -7,3 +7,4 @@ PHP Refactoring - marsl
 Live Server (Five Server) - Yannick
 PHP Refactor Tool - Son Tung PHAM
 deep-assoc-completion-vscode - klesun
+MySQL - Weijan Chen

@@ -45,26 +45,24 @@ echo "<br>";
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ejercicio 5</title>
+    <title>Ejercicio 8</title>
   </head>
   <body>
     <form action="" method="get">
-      <label for="valor">Primer número:</label>
+      <label for="valor">Buscar número:</label>
       <input type="number" name="valor"/>
       <input type="submit" value="Enviar datos" />
     </form>
     <br>
     <div id="answer">
-      <?php
-        
-        
+      <?php 
         if (isset($_GET["valor"]) ) {
           $result = array_search($_GET["valor"], $array);
           
           if (!$result) {
-            echo "El valor no está en el array ";
+            echo "El valor " . $_GET["valor"] .  " no está en el array ";
           } else {
-            echo "El valor está en la posición $result del array.";
+            echo "El valor " . $_GET["valor"] .  " está en la posición $result del array.";
           }
           
         } else {
